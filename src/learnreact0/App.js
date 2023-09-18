@@ -52,7 +52,7 @@ function Gallery1() {
 }
 
 function Congratulations() {
-    return <h1>Good Job!</h1>
+    return <h1>Good Job!!!</h1>
 }
 
 
